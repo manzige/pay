@@ -1,1 +1,1 @@
-alipays://platformapi/startapp?appId=20000067&url=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000123%26actionType%3Dscan%26biz_data%3D%7B%22s%22%3A%22money%22%2C%22u%22%3A%222088402759328420%22%2C%22a%22%3A%226.66%22%2C%22m%22%3A%22PID%E8%BD%AC%E8%B4%A6%22%7D
+
