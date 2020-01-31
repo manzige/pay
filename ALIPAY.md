@@ -41,3 +41,6 @@ URI再 encode 前为 ：`alipays://platformapi/startapp?appId=09999988&actionTyp
 跟着流程走一遍，你会有惊喜的。
 
 支付宝还提供了通过银行卡账号来获取银行信息的接口，这样就不用自己维护银行代号及名称了，接口地址为：`https://ccdcapi.alipay.com/validateAndCacheCardInfo.json?cardNo=6226661203661552&cardBinCheck=true,传入卡号carNo` 即返回银行代号。
+
+# 看到别人有使用这个链接
+`alipays://platformapi/startapp?saId=10000007&qrcode=https://qr.alipay.com/fkx11699ksrjokuurzkjjf5?_s=web-other`
