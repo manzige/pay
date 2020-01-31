@@ -44,3 +44,4 @@ URI再 encode 前为 ：`alipays://platformapi/startapp?appId=09999988&actionTyp
 
 # 看到别人有使用这个链接
 `alipays://platformapi/startapp?saId=10000007&qrcode=https://qr.alipay.com/fkx11699ksrjokuurzkjjf5?_s=web-other`
+qrcode 后面的地址为收款码识别出来的地址
